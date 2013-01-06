@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScottCate.Graffiti", "src\ScottCate.Graffiti\ScottCate.Graffiti.csproj", "{BDD38952-688A-4525-BA9E-83FCAACCF6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD38952-688A-4525-BA9E-83FCAACCF6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD38952-688A-4525-BA9E-83FCAACCF6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD38952-688A-4525-BA9E-83FCAACCF6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD38952-688A-4525-BA9E-83FCAACCF6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(VaultVsipSolution-v2) = preSolution
+		VaultHost = http://64.79.170.20/VaultService
+		VaultRepositoryID = 1
+		VaultRepositoryGUID = 4a6ff013-6396-4597-9988-205c66334673
+		ProjectCount = 1
+		ProjectRelativeDiskPath1 = src\ScottCate.Graffiti\ScottCate.Graffiti.csproj
+	EndGlobalSection
+EndGlobal
